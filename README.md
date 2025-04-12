@@ -5,4 +5,4 @@ A separate board featuring just a balanced line amplifier.
 
 As shown, Fara is configuered with a bipolar supply fed by 2 x 2K2 resistors in the source and drain circuit. This should work quite well with the Happy capsule adaptor or the original head as designed and built by Matthew Perks for the Ulitmate USB-C microphone project.
 
-With some small modifications (remove the 2K2 resistors and replace one with 680R and insert a 680R in the free pads configures the board for P12-P15 supply for use with capsule. Most users won't need this as adapters like Jaime are single supply balanced and intended for very long cable runs.
+With some small modifications (remove the 2K2 resistors and replace one with 680R and insert a 680R in the free pads configures the board (R4) for P12-P15 supply for use with capsule. Most users won't need this as adapters like Jaime are single supply balanced and intended for very long cable runs.
