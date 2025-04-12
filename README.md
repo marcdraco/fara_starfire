@@ -7,4 +7,6 @@ As shown, Fara is configuered with a bipolar supply fed by 2 x 2K2 resistors in 
 
 With some small modifications (remove the 2K2 resistors and replace one with 680R and insert a 680R in the free pads configures the board (R4) for P12-P15 supply for use with capsule. Most users won't need this as adapters like Jaime are single supply balanced and intended for very long cable runs.
 
+Fara does not have an internal power supply and requires +15 and -15 volt supplies. If you need a power supply the Liza Starfire board (based on the power supply from the Michelle 4.0 is suitable). Line regulation is not requires (17V supplies, see Self's "Small Singal Design" should give slightly better performance - more gain - but the circuit is quite sensitive to supply noise so that must be factored in. 
+
 NOTE: as of this writing Fara has not undergone testing (it's next in line) so any builds must be considered experimental. It's based on a known good circuit but the board itself is untested. I will have some made up on the next batch.
