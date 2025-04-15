@@ -1,4 +1,4 @@
-# fara_starfire
+# Fara Starfire
 A separate board featuring just a balanced line amplifier.
 
 ![image](https://github.com/user-attachments/assets/5837cacb-649c-49ef-ba9d-cafe50bbea5d)
